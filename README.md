@@ -78,13 +78,13 @@ Open to:
 
 ##  Featured Projects
 
-### 📄 Resume Builder
+###  Resume Builder
 
 A modern full-stack Resume Builder that allows users to create, customize, preview, and manage professional resumes using multiple templates and a clean user interface.
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB
 
-🔗 Repository: *(Link will be added later)*
+🔗 Repository: (https://github.com/Evilsoul1/Resume_Builder)
 
 ---
 
@@ -102,7 +102,7 @@ A women safety application designed to provide quick emergency assistance and im
 
 **Tech Stack:** React Native • Firebase • Location Services
 
-🔗 Repository: *(Link will be added later)*
+🔗 Repository: (https://github.com/Evilsoul1/EmpowHer)
 
 ---
 
