@@ -4,9 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Arya%20Raj&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Computer%20Science%20Engineering%20Student%20|%20Full-Stack%20Developer&descAlignY=60" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&center=true\&vCenter=true\&width=700\&lines=Full-Stack+Developer;CSE+Student+at+IIIT+Kalyani;Ext-Core+Team+Member+%40+GDG+On+Campus;Open+Source+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&center=true\&vCenter=true\&width=700\&lines=Full-Stack+Developer;CSE+Student+at+IIIT+Kalyani;Ex-Core+Team+Member+%40+GDG+On+Campus;Open+Source+Contributor;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Evilsoul1-181717?style=for-the-badge\&logo=github)](https://github.com/Evilsoul1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arya%20Raj-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/arya-raj-83908a253)
 [![Email](https://img.shields.io/badge/Email-arya14728@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:arya14728@gmail.com)
 
@@ -16,49 +15,30 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-```cpp
-class AryaRaj {
-public:
-    string education = "B.Tech CSE @ IIIT Kalyani";
-    string cgpa = "9.2+";
-    string role = "Ext-Core Team Member @ GDG On Campus IIIT Kalyani";
+Name: Arya Raj
+Education: B.Tech in Computer Science Engineering @ IIIT Kalyani
 
-    vector<string> interests = {
-        "Full Stack Development",
-        "Open Source",
-        "Competitive Programming",
-        "Cloud Computing",
-        "AI/ML"
-    };
+Interests:
+  - Full-Stack Development
+  - Software Engineering
+  - Open Source
+  - Cloud Computing
+  - AI/ML
 
-    vector<string> currentlyLearning = {
-        "System Design",
-        "Backend Architecture",
-        "Advanced DSA",
-        "Cloud Technologies"
-    };
-};
-```
+Open to:
+  - Internships
+  - Open Source Contributions
 
-* 🎓 B.Tech Computer Science Engineering student at **IIIT Kalyani**
-* 🌱 Currently exploring **System Design, Cloud Computing, and Scalable Web Applications**
-* 💻 Passionate about **Full-Stack Development and Open Source**
-* 🚀 Building impactful projects that solve real-world problems
-* 🤝 Open to collaboration, internships, and exciting tech opportunities
+
+* B.Tech Computer Science Engineering student at **IIIT Kalyani**
+* Currently exploring **System Design, Cloud Computing, and Scalable Web Applications**
+* Learning **Full-Stack Development and Open Source**
+* Open to collaboration, internships, and exciting tech opportunities
 
 ---
 
-## 🎯 Current Focus
-
-* Building scalable full-stack applications
-* Strengthening Data Structures & Algorithms
-* Contributing to Open Source
-* Learning System Design and Cloud Technologies
-* Preparing for Software Development Engineering roles
-
----
 
 ## 🛠️ Tech Stack
 
@@ -96,7 +76,7 @@ public:
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### 📄 Resume Builder
 
@@ -108,17 +88,17 @@ A modern full-stack Resume Builder that allows users to create, customize, previ
 
 ---
 
-### 🛡️ EmpowHer
+###  EmpowHer
 
 A women safety application designed to provide quick emergency assistance and improve personal security.
 
 #### Key Features
 
-* 📍 Real-time Location Sharing
-* 🚨 Emergency SOS Alerts
-* 📞 Instant Emergency Contact Notification
-* 👮 Police Emergency Support Integration
-* 🔒 Safety-Focused Mobile Experience
+*  Real-time Location Sharing
+*  Emergency SOS Alerts
+*  Instant Emergency Contact Notification
+*  Police Emergency Support Integration
+*  Safety-Focused Mobile Experience
 
 **Tech Stack:** React Native • Firebase • Location Services
 
@@ -139,16 +119,6 @@ A women safety application designed to provide quick emergency assistance and im
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Evilsoul1&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Evilsoul1&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
